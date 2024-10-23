@@ -1,0 +1,1 @@
+web: gunbicorn kpmb.wsgi --log-file -
